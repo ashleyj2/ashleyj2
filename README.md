@@ -1,4 +1,4 @@
-- Hi, I’m @ashleyj2 💙
+- Hi, I’m Ashley 💙
 - 🏫 I have a B. S. in Computer Science and currently spend my time teaching high school math
 - ✒️ I am learning more about data analytics through the Masterschool program.
 - 💻 I’m currently brushing up on my SQL knowledge
