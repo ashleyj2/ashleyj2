@@ -1,6 +1,9 @@
 Looking for a competent data analyst?
+
 I graduated from ETSU in 2021 with a Bachelor of Science in computing and a focus on Data analytics. I went on to complete an additional Data Analytics Masterschool program shortly afterwards in 2023. 
+
 Besides my coding experience, I have a background in tutoring, which has given me a lot of insight and experience in data presentation.
+
 You can reach me through LinkedIn (https://www.linkedin.com/in/ashleyjoyner/)
 
 
